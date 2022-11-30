@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode @mahadappa
+# Recode @xflskyura
 # Kalo clone Gak usah hapus ya kontol
 
 
@@ -140,6 +140,10 @@ async def not_joined(client: Client, message: Message):
         ],
         [
             InlineKeyboardButton("•ᴄʜᴀɴᴇʟ•", url=client.invitelink3),
+            InlineKeyboardButton("•ᴄʜᴀɴᴇʟ•", url=client.invitelink4), 
+        ],
+        [
+            InlineKeyboardButton("•ᴄʜᴀɴᴇʟ•", url=client.invitelink5),
         ],
     ]
     try:
