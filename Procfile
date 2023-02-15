@@ -1,1 +1,1 @@
-worker: bash start
+worker: phyton3 main.py
